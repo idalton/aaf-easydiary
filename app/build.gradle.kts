@@ -28,7 +28,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "me.blog.korn123.easydiary"
+        applicationId = "com.idalton.dreamjournal"
         minSdk = 26
         targetSdk = appCompileSdk
         versionCode = 347
